@@ -6,3 +6,5 @@ print(data.head())
 print(data.tail())
 
 print(data.iloc[2,])
+
+print(data.shape)
